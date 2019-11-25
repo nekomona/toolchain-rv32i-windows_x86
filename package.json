@@ -1,0 +1,7 @@
+{
+    "description": "GNU Embedded RISC-V GCC toolchain for RV32I",
+    "name": "toolchain-picorv32",
+    "system": ["windows_x86", "windows_amd64"],
+    "url": "https://www.sifive.com/boards",
+    "version": "1.80300.190927"
+}
